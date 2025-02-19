@@ -1,0 +1,29 @@
+/* css/writingoncaffeine-franzone-styles.css */
+.podcast-episodes {
+    list-style: none;
+    margin: 0 0 2em 0;
+    padding: 0;
+}
+
+.podcast-episodes li {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #eee;
+}
+
+.podcast-title {
+    margin-bottom: 0.5em;
+}
+
+.podcast-date {
+    color: #666;
+    font-size: 0.95em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.podcast-excerpt {
+    margin: 0;
+    color: #555;
+    font-size: 0.95em;
+}
