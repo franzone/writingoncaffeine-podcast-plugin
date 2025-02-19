@@ -18,7 +18,7 @@ The **Writing on Caffeine Podcast** plugin is a custom WordPress plugin designed
 
    ```
    bash
-   git clone https://github.com/your-username/writingoncaffeine-podcast-plugin.git
+   git clone https://github.com/franzone/writingoncaffeine-podcast-plugin.git
    ```
 
 2. **Upload**: Upload the writingoncaffeine-franzone-podcast folder to your WordPress site's /wp-content/plugins/ directory.
