@@ -40,7 +40,7 @@ writingoncaffeine-franzone-podcast/
 │   └── writingoncaffeine-franzone-styles.css  # Styles for the template
 ├── templates/
 │   └── writingoncaffeine-franzone-template.php  # Custom page template
-├── writingoncaffeine-franzone-podcast.php  # Main plugin file
+├── writingoncaffeine-podcast-plugin.php  # Main plugin file
 └── README.md  # This file
 ```
 
